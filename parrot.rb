@@ -1,5 +1,5 @@
 def parrot(noise = "Squawk!")
-  returns "Squawk!"
+ puts "Squawk!"
 end 
 
 parrot()
