@@ -2,7 +2,7 @@ def parrot(noise = "Squawk!")
  puts "Squawk!"
 end 
 
-parrot()
+parrot
 
 parrot("Pretty bird!")
 
