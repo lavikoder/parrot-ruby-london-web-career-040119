@@ -1,4 +1,4 @@
-def parrot(arg = "Squawk!")
+def parrot(noise = "Squawk!")
   puts "Squawk!"
 end 
 
